@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h2>
+<p>
 Discord Names:
-</h2>
+</p>
 <li>
 Guard Boi
 </li>
