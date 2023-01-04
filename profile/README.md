@@ -3,4 +3,4 @@
 <li>Noat#5545</li>⠀
 <li>Chadd#4876</li>⠀
 
-<a href="https://cow.futbol">Website</a>
+<a href="https://server.cowbot.xyz">Discord</a>
