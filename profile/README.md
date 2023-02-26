@@ -4,3 +4,4 @@
 <li>Guard Boi#7777</li> ⠀
 <li>Noat#5545</li>⠀
 <li>Chadd#4876</li>⠀
+<iframe src="https://discord.com/widget?id=969239928837906462&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
