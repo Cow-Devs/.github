@@ -1,4 +1,4 @@
-<a href="https://server.cowbot.xyz"><img src="https://img.shields.io/discord/969239928837906462?color=5865F2&logo=discord&logoColor=white" alt="discord"> </a>
+<a href="https://server.cowbot.xyz"><img src="[https://img.shields.io/discord/969239928837906462?color=5865F2&logo=discord&logoColor=white](https://discord.com/widget?id=969239928837906462&theme=dark)" alt="discord"> </a>
 
 <h3>Developer Discord names:</h3>
 <li>Guard Boi#7777</li> ⠀
